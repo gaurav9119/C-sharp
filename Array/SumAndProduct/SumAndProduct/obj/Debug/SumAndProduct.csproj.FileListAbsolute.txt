@@ -1,0 +1,10 @@
+G:\Learn\C#\winforms\Array\SumAndProduct\SumAndProduct\bin\Debug\SumAndProduct.exe.config
+G:\Learn\C#\winforms\Array\SumAndProduct\SumAndProduct\bin\Debug\SumAndProduct.exe
+G:\Learn\C#\winforms\Array\SumAndProduct\SumAndProduct\bin\Debug\SumAndProduct.pdb
+G:\Learn\C#\winforms\Array\SumAndProduct\SumAndProduct\obj\Debug\SumAndProduct.csprojAssemblyReference.cache
+G:\Learn\C#\winforms\Array\SumAndProduct\SumAndProduct\obj\Debug\SumAndProduct.Form1.resources
+G:\Learn\C#\winforms\Array\SumAndProduct\SumAndProduct\obj\Debug\SumAndProduct.Properties.Resources.resources
+G:\Learn\C#\winforms\Array\SumAndProduct\SumAndProduct\obj\Debug\SumAndProduct.csproj.GenerateResource.cache
+G:\Learn\C#\winforms\Array\SumAndProduct\SumAndProduct\obj\Debug\SumAndProduct.csproj.CoreCompileInputs.cache
+G:\Learn\C#\winforms\Array\SumAndProduct\SumAndProduct\obj\Debug\SumAndProduct.exe
+G:\Learn\C#\winforms\Array\SumAndProduct\SumAndProduct\obj\Debug\SumAndProduct.pdb
