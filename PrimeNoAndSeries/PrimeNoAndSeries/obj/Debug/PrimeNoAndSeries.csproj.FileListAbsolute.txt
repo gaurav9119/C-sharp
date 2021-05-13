@@ -1,0 +1,10 @@
+G:\Learn\C#\winforms\Array\PrimeNoAndSeries\PrimeNoAndSeries\bin\Debug\PrimeNoAndSeries.exe.config
+G:\Learn\C#\winforms\Array\PrimeNoAndSeries\PrimeNoAndSeries\bin\Debug\PrimeNoAndSeries.exe
+G:\Learn\C#\winforms\Array\PrimeNoAndSeries\PrimeNoAndSeries\bin\Debug\PrimeNoAndSeries.pdb
+G:\Learn\C#\winforms\Array\PrimeNoAndSeries\PrimeNoAndSeries\obj\Debug\PrimeNoAndSeries.csprojAssemblyReference.cache
+G:\Learn\C#\winforms\Array\PrimeNoAndSeries\PrimeNoAndSeries\obj\Debug\PrimeNoAndSeries.Form1.resources
+G:\Learn\C#\winforms\Array\PrimeNoAndSeries\PrimeNoAndSeries\obj\Debug\PrimeNoAndSeries.Properties.Resources.resources
+G:\Learn\C#\winforms\Array\PrimeNoAndSeries\PrimeNoAndSeries\obj\Debug\PrimeNoAndSeries.csproj.GenerateResource.cache
+G:\Learn\C#\winforms\Array\PrimeNoAndSeries\PrimeNoAndSeries\obj\Debug\PrimeNoAndSeries.csproj.CoreCompileInputs.cache
+G:\Learn\C#\winforms\Array\PrimeNoAndSeries\PrimeNoAndSeries\obj\Debug\PrimeNoAndSeries.exe
+G:\Learn\C#\winforms\Array\PrimeNoAndSeries\PrimeNoAndSeries\obj\Debug\PrimeNoAndSeries.pdb
