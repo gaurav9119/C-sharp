@@ -1,0 +1,10 @@
+G:\Learn\C#\winforms\Array\Find_Word\Find_Word\obj\Debug\Find_Word.csprojAssemblyReference.cache
+G:\Learn\C#\winforms\Array\Find_Word\Find_Word\obj\Debug\Find_Word.Form1.resources
+G:\Learn\C#\winforms\Array\Find_Word\Find_Word\obj\Debug\Find_Word.Properties.Resources.resources
+G:\Learn\C#\winforms\Array\Find_Word\Find_Word\obj\Debug\Find_Word.csproj.GenerateResource.cache
+G:\Learn\C#\winforms\Array\Find_Word\Find_Word\obj\Debug\Find_Word.csproj.CoreCompileInputs.cache
+G:\Learn\C#\winforms\Array\Find_Word\Find_Word\bin\Debug\Find_Word.exe.config
+G:\Learn\C#\winforms\Array\Find_Word\Find_Word\bin\Debug\Find_Word.exe
+G:\Learn\C#\winforms\Array\Find_Word\Find_Word\bin\Debug\Find_Word.pdb
+G:\Learn\C#\winforms\Array\Find_Word\Find_Word\obj\Debug\Find_Word.exe
+G:\Learn\C#\winforms\Array\Find_Word\Find_Word\obj\Debug\Find_Word.pdb
